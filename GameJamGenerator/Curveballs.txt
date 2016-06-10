@@ -1,0 +1,8 @@
+You must add an online highscore system
+You must add an achievement system
+You must add a non-linear leveling system
+You must add a combat system
+You must add at least 5 pop-culture references
+You must add co-op play (online or offline)
+You must add a background story in visual form (not just writing)
+You must add multiple endings

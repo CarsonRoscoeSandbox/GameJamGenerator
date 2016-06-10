@@ -1,0 +1,6 @@
+Top Down Shooter
+Real Time Strategy
+First Person Shooter
+Turn Based
+Platformer
+Role Playing Game
